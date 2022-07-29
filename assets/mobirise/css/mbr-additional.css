@@ -1059,6 +1059,10 @@ a {
 .cid-sFF0SGinka .mbr-section-btn {
   color: #8e8d8a;
 }
+.cid-sFF0SGinka .w-100 {
+  border-radius: 15px;
+  box-shadow: 0 0 50px #00000052;
+}
 .cid-tcTns0uBFT {
   padding-top: 0rem;
   padding-bottom: 1rem;
@@ -1250,6 +1254,11 @@ a {
 .cid-tcYsSzKEvs .mbr-text,
 .cid-tcYsSzKEvs .mbr-section-btn {
   color: #75083a;
+}
+.cid-tcYsSzKEvs .image-wrapper {
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 0 5px 5px #00000052;
 }
 .cid-tcTqNU1mER {
   padding-top: 75px;
