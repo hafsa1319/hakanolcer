@@ -1241,7 +1241,7 @@ a {
   }
 }
 .cid-tcYsSzKEvs img {
-  width: 120px;
+  width: 75px;
 }
 @media (max-width: 758px) {
   .cid-tcYsSzKEvs img {
@@ -1258,7 +1258,6 @@ a {
 .cid-tcYsSzKEvs .image-wrapper {
   border-radius: 15px;
   padding: 10px;
-  box-shadow: 0 5px 5px #00000052;
 }
 .cid-tcTqNU1mER {
   padding-top: 75px;
@@ -1541,7 +1540,7 @@ a {
   color: #75083a;
 }
 .cid-tcToFAPvPL {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
