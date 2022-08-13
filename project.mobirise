@@ -77,7 +77,7 @@
       "text": ""
     },
     "favicon": false,
-    "mbrsiteDomain": "ezihxe2bpv",
+    "mbrsiteDomain": "moqrzlwpow",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -87,7 +87,9 @@
     "screenshot": "screenshot.png",
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "global_header_custom": "<script type=\"text/javascript\" src=\"https://cdn.weglot.com/weglot.min.js\"></script>\n<script>\n    Weglot.initialize({\n        api_key: 'wg_238685e76e2e34e1922594703334ef4b4'\n    });\n</script>",
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
